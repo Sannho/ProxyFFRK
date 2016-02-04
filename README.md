@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ffrk-proxy​
 
 ### Installation
@@ -33,3 +34,6 @@ When reporting bugs, please tell me your server operating system+version and you
 ### Thanks to:
 * KHShadowrunner
 * SirPhoenix88
+=======
+# ProxyFFRK
+>>>>>>> 66643f16671568f9e17e1f33ef2786b4633fa526
